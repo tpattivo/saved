@@ -228,7 +228,7 @@ Sau khi đã xác định được vấn đề cốt lõi, cơ chế giải phá
 
 Giả sử bạn đang phát triển một sản phẩm giúp người dùng học nói tiếng Anh trôi chảy.
 
-#### Concept A: “Gia sư Âo”
+#### Concept A: “Gia sư Ảo”
 - **Vấn đề cốt lõi:** Người học không dám nói, thiếu vốn cụm từ.  
 - **Cơ chế giải pháp:** Áp dụng chunking và scaffolding—tức người học sẽ được gợi ý các cụm từ sẵn và từng buộc mở rộng vốn từ.  
 - **Cách truyền tài:**  
@@ -321,29 +321,29 @@ Khi MVP đã qua một vài vòng lặp, bạn sẽ có cái nhìn rõ ràng hơ
 
 ---
 
-## Chương 7: Problem solving 101. Chiến thuật thực thi trong quản lí dự án:
+## Chương 7: Problem solving 101. Chiến thuật thực thi trong quản lý dự án:
 
 Về lý thuyết phát triển sản phẩm mà nói. Mấy bước kia cũng không có gì là đột phá về cách làm hay chiến lược cho lắm. Khi nói đến thực thi thì bài này lại rất ăn nhập với kĩ năng giải quyết vấn đề mình đã từng viết. Bởi vì thực thi là liên quan tới việc tìm được câu trả lời, tốc độ triển khai...
 
 **Mọi thứ được gọi là thông minh đều được bắt đầu bởi một câu hỏi hay.**
 
-Chuyện là lớp chuyên toán của mình được chia làm 4 tổ. Nền tảng tư chất học hành chắc cũng ngang so với cả lớp nhưng thì đại học trung bình gần 27 điểm, cao hơn trung bình của cả lớp 1,25 điểm.
+Chuyện là lớp chuyên toán của mình được chia làm 4 tổ. Nền tảng tư chất học hành chắc cũng ngang so với cả lớp nhưng thi đại học trung bình gần 27 điểm, cao hơn trung bình của cả lớp 1,25 điểm.
 
 Có lẽ là vì anh em học theo cách của mình.
 
-Có lẽ là vì tập trung luyện toán chuyên nên xuất phát điểm đầu lớp 12 của mình không tốt, chắc chỉ loanh quanh 6-7 với hai môn còn lại. Vì bạn bè rủ rẽ lôi kéo thì đua nên mình đặt mục tiêu đi thi cần đạt 29-30. Câu hỏi không còn là làm sao để thi đỗ mà giờ là làm sao trở thành top vài trăm người thi điểm cao nhất của cả nước.
+Có lẽ là vì tập trung luyện toán chuyên nên xuất phát điểm đầu lớp 12 của mình không tốt, chắc chỉ loanh quanh 6-7 với hai môn còn lại. Vì bạn bè rủ rê lôi kéo thì đua nên mình đặt mục tiêu đi thi cần đạt 29-30. Câu hỏi không còn là làm sao để thi đỗ mà giờ là làm sao trở thành top vài trăm người thi điểm cao nhất của cả nước.
 
 Mục tiêu khó thì đòi hỏi chiến lược phải rất tốt để hack được game này. Sau một thời gian ủ mưu. Chiến lược học hành của mình cũng khá rõ ràng cho chuyện từ 6.5 lên 9.5.
 
 Thứ nhất, trang bị nền tảng thật nhanh về kiến thức
 Thứ hai. Từ 6.5 lên 9.5 tức là nên học để lên được 7 trước và tăng dần. Bài nào khó và dễ nằm ngoài vùng tiến bộ là bỏ để tối ưu hiệu quả.
-Thứ ba. Bài toán lý hoá nào cũng chỉ là tổ hợp của 2-3 "chia khoá" biến đổi. Chìa khoá đó có thể là cân bằng phương trình, vẽ thêm đường... Thì cách nhanh nhất để lên trình độ đó là nhận dạng được "chia khoá" đó.
+Thứ ba. Bài toán lý hoá nào cũng chỉ là tổ hợp của 2-3 "chia khóa" biến đổi. Chìa khoá đó có thể là cân bằng phương trình, vẽ thêm đường... Thì cách nhanh nhất để lên trình độ đó là nhận dạng được "chìa khóa" đó.
 
 Giải quyết vấn đề là một loại siêu kĩ năng. Nó là chìa khoá vạn năng cho mọi khía cạnh trong học tập và công việc. Bản thân mình học Ngoại Thương ra đi làm về công nghệ cũng là phải bơi một chặng khá xa, làm tiếp về Al lại phải bơi một chặng cũng xa nữa. PS (problem solving) là thứ chính giúp mình bơi được như thế.
 
 Bạn đang sống và làm việc bằng tư chất và bản năng thì cũng ổn. Nhưng cài đặt thêm "app" PS có lẽ kết quả của mọi thứ có thể tăng bằng lần. Đừng hài lòng với thực tại, thứ bắt đầu bằng việc nâng độ khó của game dần lên đi.
 
-Bạn đã từng thấy trên mạng máy bức ảnh chuyển đổi của các bạn tập gym từ gây lên cơ bắp chưa? Trí thông minh cũng là thứ có thể luyện tập được như thế với những bài tập phù hợp.
+Bạn đã từng thấy trên mạng máy bức ảnh chuyển đổi của các bạn tập gym từ gầy lên cơ bắp chưa? Trí thông minh cũng là thứ có thể luyện tập được như thế với những bài tập phù hợp.
 
 **Làm gì cũng phải dứt điểm, tới nơi tới chốn.**
 
@@ -357,7 +357,7 @@ Sau đây là các vấn đề bạn sẽ phải giải quyết.
 
 1. Tìm câu trả lời
 
-2. Thu nạp thông tin hoặc học kĩ năng mới
+2. Thu nạp thông tin hoặc học kỹ năng mới
 
 3. Tạo ra sản phẩm
 
@@ -375,21 +375,21 @@ Sau đây là các vấn đề bạn sẽ phải giải quyết.
 
 **Ma trận giải quyết vấn đề**
 
-Những vấn đề phức tạp thì có thể phải trải qua nhiều buớc. Mà mỗi buớc lại có thể xuất hiện nhiều phương án ABCD khác nhau. Một kết quả tối ưu không phải là đường thẳng từ 1=>2=>3=>4. Mà nó có thể là tổ hợp của 1B=>2C=>3A=>4D.
+Những vấn đề phức tạp thì có thể phải trải qua nhiều bước. Mà mỗi bước lại có thể xuất hiện nhiều phương án ABCD khác nhau. Một kết quả tối ưu không phải là đường thẳng từ 1=>2=>3=>4. Mà nó có thể là tổ hợp của 1B=>2C=>3A=>4D.
 
 Thế nên việc đi được đến phương án tối ưu trước hết là cần vét được toàn bộ các phương án, điều này cần vừa sáng tạo vừa tháo vát để có được cả những phương án nằm ngoài tầm hiểu biết hiện tại của mình.
 
-Thứ hai là chạy được giả định sự kết hợp của toàn bộ các phương án lại với nhau. Đòi hỏi sự tuân thủ trình tự và kiên nhẵn thử sai đủ các tổ hợp.
+Thứ hai là chạy được giả định sự kết hợp của toàn bộ các phương án lại với nhau. Đòi hỏi sự tuân thủ trình tự và kiên nhẫn thử sai đủ các tổ hợp.
 
-Sự khác biệt của người rất thông minh khi giải quyết vấn đề đó là hiểu biết của họ về các phương án rất nhiều, đánh giá về các phương án cũng sát sưởn, và cuối cùng là tốc độ "này số" của họ trong việc chạy thử các kịch bản cũng rất nhanh. Cơ bắp và phản xạ này không phải là thử ngày một ngày hai mà có thể được, nó cần sự chuyên tâm rèn luyện.
+Sự khác biệt của người rất thông minh khi giải quyết vấn đề đó là hiểu biết của họ về các phương án rất nhiều, đánh giá về các phương án củng sát sườn, và cuối cùng là tốc độ "này số" của họ trong việc chạy thử các kịch bản cũng rất nhanh. Cơ bắp và phản xạ này không phải là thử ngày một ngày hai mà có thể được, nó cần sự chuyên tâm rèn luyện.
 
-**Các buớc giải quyết vấn đề:**
+**Các bước giải quyết vấn đề:**
 
 **Buớc 1: Định nghĩa đúng là giải quyết được một nửa vấn đề.**
 
-Vi dự này về giải quyết vấn đề sẽ không đầy đủ các buốc nhưng đủ đơn giản để giúp mọi người hình dung và đi qua được các buốc.
+Vi dự này về giải quyết vấn đề sẽ không đầy đủ các bước nhưng đủ đơn giản để giúp mọi người hình dung và đi qua được các buốc.
 
-Nhiệm vụ trong khi làm cho app The Coach. Đó là sản xuất 50 video cho 50 tinh huống nhập vai giả lập lồng với chatbot trong app, mỗi video 10 phút có người nước ngoài.
+Nhiệm vụ trong khi làm cho app The Coach. Đó là sản xuất 50 video cho 50 tình huống nhập vai giả lập lồng với chatbot trong app, mỗi video 10 phút có người nước ngoài.
 
 Nếu định nghĩa vấn đề của bạn mở hồ thì giải pháp cũng nhạt nhòa. Đừng định nghĩa đầu việc chỉ bằng một cái tên. Một bản định nghĩa vấn đề nên đủ sức vẽ lên một bức tranh rõ ràng hơn về vấn đề. Thay vì định nghĩa đơn giản như trên, khi viết lại nó sẽ như thế này:
 
@@ -404,7 +404,7 @@ Chi phí sản xuất phải vừa phải.
 
 **Bước 2: Mổ xẻ và xếp lên bản đồ.**
 
-Khảo sát: Có vài phương án sơ bộ để làm dự án này, đó là thuê agency bên ngoài hoặc tự thuê freelancer và công ty tự làm. Sau khi khảo sát mức giá, chất lượng, thời gian của các bên thì Step Up nhận ra là phải tìm cách khác. Vì các bên agency áng chừng là sẽ mất tầm 2-3 tháng và tổng chi phí dự án có thể rơi vào 700tr-1.5 tỉ vnđ với yêu cầu về diễn viên nước ngoài chất lượng và đa dạng địa điểm quay.
+Khảo sát: Có vài phương án sơ bộ để làm dự án này, đó là thuê agency bên ngoài hoặc tự thuê freelancer và công ty tự làm. Sau khi khảo sát mức giá, chất lượng, thời gian của các bên thì Step Up nhận ra là phải tìm cách khác. Vì các bên agency áng chừng là sẽ mất tầm 2-3 tháng và tổng chi phí dự án có thể rơi vào 700tr-1.5 tỷ vnd và yêu cầu về diễn viên nước ngoài chất lượng và đa dạng địa điểm quay.
 
 Có rất nhiều góc nhìn và phương pháp để mổ xẻ vấn đề. Trong đề bài này trước tiên mình sẽ giới thiệu sơ bộ về First principle thinking, được dịch sang tiếng Việt là tư duy nguyên bản. Tức là với mỗi nhiệm vụ sẽ được bè ra thành những mảnh nhỏ hơn để vấn đề có thể được nhìn nhận và tháo lắp theo cách khác tối ưu hơn. Về chuỗi video kia thì chỉ có phần sản xuất là cần được bóc ra:
 
@@ -416,7 +416,7 @@ Diễn viên
 Ghi hình
 Dựng phim
 
-Mình có chút hiểu biết về làm phim, nhưng việc bè vấn đề ra như này ai cũng có thể làm được với Google.
+Mình có chút hiểu biết về làm phim, những việc về vấn đề ra như này ai cũng có thể làm được với Google.
 
 Trong việc mổ xẻ vấn đề, còn rất nhiều góc nhìn khác nữa để bạn có thể áp dụng:
 
@@ -461,7 +461,7 @@ Có một từ khoá mình hay nói chuyện với nhân viên mình là "worldc
 
 Trước mắt với dự án này sẽ có 2 phương án.
 
-Phương án 1: Thuê agency bên ngoài làm. Giá có thể giao động từ 1-1.5 tỉ. Thời gian 2-3 tháng.
+Phương án 1: Thuê agency bên ngoài làm. Giá có thể giao động từ 1-1.5 tỷ. Thời gian 2-3 tháng.
 
 Phương án 2: Step Up tự làm từ đạo diễn, casting và sản xuất. Thoả mãn về mặt chi phí nhưng chưa chắc đã đảm bảo chất lượng vì sẽ vẫn phải tìm đạo diễn và chỉ đạo sản xuất bên ngoài.
 
@@ -471,29 +471,29 @@ Tối lúc này là cần suy nghĩ bên ngoài chiếc hộp. Dựa vào cả p
 
 Trong quá trình lên phương án tiếp cận. Có những khái niệm khác mà bạn nên biết để sử dụng cho các vấn đề khác.
 
-**"Spagetti sauce": Chuyện là có một ông trên youtube thuyết trình về công thức làm nước xốt spagetti. Cách làm nôm na của ông ấy là với nhiều loại nguyên liệu, thì làm ra cả trăm combo nước xốt khác nhau để cho khách hàng chọn và chấm điểm. Thay vì chỉ tuỳ chính một vài thông số trong khi làm xốt.
+**"Spaghetti sauce": Chuyện là có một ông trên youtube thuyết trình về công thức làm nước sốt spaghetti. Cách làm nôm na của ông ấy là với nhiều loại nguyên liệu, thì làm ra cả trăm combo nước xốt khác nhau để cho khách hàng chọn và chấm điểm. Thay vì chỉ tuỳ chính một vài thông số trong khi làm xốt.
 
-Có nhiều giải pháp không thể lượng hoá được mà chỉ có điểm khách hàng chấm là thứ quan trọng nhất. Thì "spagetti sauce" là phương thức tốt để đem lại độ phân giải cao hơn về xu hướng hành vi của khách hàng cũng như chọn được phương án tối ưu nhất mà không bị phụ thuộc bởi gu của một người.
+Có nhiều giải pháp không thể lượng hoá được mà chỉ có điểm khách hàng chấm là thứ quan trọng nhất. Thì "spaghetti sauce" là phương thức tốt để đem lại độ phân giải cao hơn về xu hướng hành vi của khách hàng cũng như chọn được phương án tối ưu nhất mà không bị phụ thuộc bởi gu của một người.
 
 Với quy chuẩn về hình ảnh của video trong chuỗi, thì Step Up yêu cầu đạo diễn tạo ra 15-20 phiên bản khác nhau về ánh sáng và đánh đèn, cấu hình cài đặt khi quay camera... Sau đó cho một nhóm cả nhân viên nội bộ và 50 khách hàng vào chấm điểm.
 
 **Tận dụng nguồn lực bên ngoài: Trong bài toán tối ưu hiệu quả tổng thể. Thì nút thắt lớn nhất vẫn là nguồn lực nội bộ. Chuyện tuyển được người làm ăn ý với nhau không phải là chuyện ngày một ngày hai. Thế nên cách để x2 tổng kết quả thì cũng có cách là bóc được 40-60% khối lượng công việc hiện tại có thể đưa ra bên ngoài làm và nhân viên nội bộ là người kiểm soát.
 
-**Phân tích và xử lí nút thắt:**
+**Phân tích và xử lý nút thắt:**
 
-The Coach có thể nói là trải nghiệm nhập vai video đầu tiên trên thế giới mà video được lồng vào một chatbot. Nhưng trước kì nguyên Chatgpt và LLM nói chung thì việc code các chatbot này tổn rất nhiều
+The Coach có thể nói là trải nghiệm nhập vai video đầu tiên trên thế giới mà video được lồng vào một chatbot. Nhưng trước kỳ nguyên Chatgpt và LLM nói chung thì việc code các chatbot này tổn rất nhiều
 
 thời gian. Với 50 tình huống tức là cần code 50 chiếc chatbot riêng, từ training dữ liệu để nhận dạng ý định và thực thể của mỗi câu người dùng nói.
 
 Với nguồn lực của Step Up thời điểm đó thì sẽ tồn 2 nhân sự để làm một bot trong vòng 2 tuần. Tính sơ bộ là sẽ mất một năm rưỡi để hoàn thiện toàn bộ 50 bot. Và đây là cách rất nhiều đội Al đang làm. Là người không biết lập trình và bạn được nhân viên báo lại là phải làm mất 100 tuần thì bạn sẽ làm gì?
 
-Nếu để dự án này bị kéo lên tới 100 tuần, thì chắc chắn là cả có đồ bị đổ bể. Step Up không đủ tài chính để nuôi đội sản phẩm và công nghệ lâu tới thế được. Người giải quyết vấn đề tốt là người không đầu hàng trước số phận, chuyện tháo gỡ được nút thắt này hay không có thể là chỉ 10-20% khả thi. Nhưng việc dám nghĩ và dám làm sẽ đầy ti lệ đó lên cao hơn.
+Nếu để dự án này bị kéo lên tới 100 tuần, thì chắc chắn là cả có đồ bị đổ bể. Step Up không đủ tài chính để nuôi đội sản phẩm và công nghệ lâu tới thế được. Người giải quyết vấn đề tốt là người không đầu hàng trước số phận, chuyện tháo gỡ được nút thắt này hay không có thể là chỉ 10-20% khả thi. Những việc dám nghĩ và dám làm sẽ đầy tỉ lệ đó lên cao hơn.
 
-Và việc đầu tiên khi mình bắt tay vào tháo gỡ nút thắt này là gọi bạn kĩ sư Al đó lên xem quy trình làm việc của họ là gì. Hoá ra việc code chatbot vào thời điểm đó có rất nhiều giai đoạn phải làm thủ công. Mình nghĩ là có thể đâu đó trên đời có một phương án dụng được bot mà bớt đi nhiều giai đoạn thủ công như thế. Cái dòng suy nghĩ này mình gọi là "trên đời này cái gì mình nghĩ ra thì chắc là có người họ làm được rồi". Và đúng là thế thật, ở Việt Nam có nhiều đội có sẵn công cụ này gọi là "chatbot platform", một công cụ chuyển đổi từ biểu đồ cây tình huống ý thành các bot.
+Và việc đầu tiên khi mình bắt tay vào tháo gỡ nút thắt này là gọi bạn kỹ sư Al đó lên xem quy trình làm việc của họ là gì. Hoá ra việc code chatbot vào thời điểm đó có rất nhiều giai đoạn phải làm thủ công. Mình nghĩ là có thể đâu đó trên đời có một phương án dụng được bot mà bớt đi nhiều giai đoạn thủ công như thế. Cái dòng suy nghĩ này mình gọi là "trên đời này cái gì mình nghĩ ra thì chắc là có người họ làm được rồi". Và đúng là thế thật, ở Việt Nam có nhiều đội có sẵn công cụ này gọi là "chatbot platform", một công cụ chuyển đổi từ biểu đồ cây tình huống ý thành các bot.
 
 Sau một thời gian sử dụng công cụ này thì việc code một bot từ 2 tuần về còn chỉ 1.5 ngày.
 
-Đấy, trước khi cảm thấy bị húc tường ở một vấn đề nào đó. Hãy luôn nghĩ rằng vấn đề này chỉ khó với mình thôi, còn ngoài kia đã có người làm được chia khoá cho cánh cửa này rồi và việc của mình cần làm là đi tìm chia đó và đánh lại.
+Đấy, trước khi cảm thấy bị húc tường ở một vấn đề nào đó. Hãy luôn nghĩ rằng vấn đề này chỉ khó với mình thôi, còn ngoài kia đã có người làm được chìa khoá cho cánh cửa này rồi và việc của mình cần làm là đi tìm chìa đó và đánh lại.
 
 **Bước 6: Đánh giá nguồn lực và đầu ra của các phương án. Lên các loại kịch bản.**
 
@@ -501,7 +501,7 @@ Một trong những sai lầm lớn nhất của những người chưa thành t
 
 toán khó thì phải dùng tới giấy và bút. Đơn giản là vì "ram" của não bộ con người khi tư duy là có giới hạn.
 
-Sau các buốc như trên, thì bạn có thể xác định lại vấn đề sẽ có 3 cách tiếp cận là 1A-2C-3B-4D và các tổ hợp khác.
+Sau các bước như trên, thì bạn có thể xác định lại vấn đề sẽ có 3 cách tiếp cận là 1A-2C-3B-4D và các tổ hợp khác.
 
 Việc tiếp theo cần làm là lấy giấy bút ra, cộng trừ nhân chia làm sao lượng hoá và quy đổi được mọi nguồn lực đầu vào và kết quả đầu ra thành một đơn vị chung như tiền chẳng hạn. Mọi thứ sẽ trở nên rõ ràng hơn khi bạn đưa mình vào vị trí đọc bản đồ tổng thể chứ không phải là người đang ở giữa ngã tư đường.
 
@@ -519,7 +519,7 @@ Có một vài góc nhìn và công cụ khác để bạn sử dụng trong gia
 
 **Buớc 7: Chọn phương án**
 
-Sau khi tính nguồn lực vào ra và đem lên bàn cân thì buớc tiếp theo cần làm là lấy được đồng thuận từ các bên liên quan.
+Sau khi tính nguồn lực vào ra và đem lên bàn cân thì bước tiếp theo cần làm là lấy được đồng thuận từ các bên liên quan.
 
 **Buớc 8: Lập kế hoạch từ đích đến và lên Gantt chart**
 
@@ -538,8 +538,9 @@ Nếu bạn đã có một phương án và chưa biết phải làm gì tiếp 
 
 -Hiểu được tính phụ thuộc của các đầu việc. Việc nào cần làm trước, việc nào là đầu vào của việc khác, việc nào có thể làm song song mà không phụ thuộc.
 
--Đặt các đầu việc lên một khung thời gian. Việc này nên được làm trên mảnh giấy có thể di chuyển được. Bằng cách di chuyển các tờ giấy như các quân cớ, bạn có thể xếp toàn bộ dự án vào một khung thời gian ngắn hơn. Việc này cũng giống như xếp quần áo vào vai! vậy, gấp gọn sẽ tồn ít không gian hơn và xếp được nhiều thứ vào hơn.
+-Đặt các đầu việc lên một khung thời gian. Việc này nên được làm trên mảnh giấy có thể di chuyển được. Bằng cách di chuyển các tờ giấy như các quân cờ, bạn có thể xếp toàn bộ dự án vào một khung thời gian ngắn hơn. Việc này cũng giống như xếp quần áo vào vai! vậy, gấp gọn sẽ tồn ít không gian hơn và xếp được nhiều thứ vào hơn.
 
 **Cuối cùng thì dự án video của The Coach có kết quả như nào?**
 
 Về mặt hình ảnh, khi mình đưa cho bạn bè xem trên app, một trong những bình luận xuất hiện khá nhiều đó là "bạn lấy video này ở đâu vậy". Tức là mọi người không nghĩ là đây là sản phẩm của một đội trong nước làm. Vì diễn viên trông rất sáng sủa và ăn nói rất tự nhiên, các cảnh thì được quay rất đa dạng ở Mỹ. Cả dự án tồn 510 triệu VNĐ và hoàn thành chưa đầy 1 tháng, quay 3 tuần ở Mỹ và dụng cuốn chiếu ở Việt Nam.
+

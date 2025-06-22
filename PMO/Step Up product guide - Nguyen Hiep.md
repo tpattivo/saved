@@ -56,14 +56,16 @@ Không chỉ biết "build", mà còn **biết chọn đúng thứ để build**
 
 **Kỹ năng Cụ thể cần làm được**
 
-**Product Sense**Viết problem statement, chọn đúng usecase, đo pain score
+**Product Sense** Viết problem statement, chọn đúng usecase, đo pain score
 
 Rapid prototyping (no-code, low-code, prompt engineering, basic API handling)
 
 #### Technical Build
 
 
-**Data/AI Fluency**Xử lý dữ liệu cơ bản, phân tích với AI, ﬁne-tune small model **Growth Mindset**Biết thiết kế test funnel (A/B test, landing page, smoke test) **Communication/**
+**Data/AI Fluency** Xử lý dữ liệu cơ bản, phân tích với AI, ﬁne-tune small model 
+**Growth Mindset** Biết thiết kế test funnel (A/B test, landing page, smoke test) 
+**Communication/**
 
 #### Storytelling
 
@@ -83,13 +85,9 @@ Pitch ý tưởng rõ ràng, show kết quả early
     - Các PM/Founder trẻ đang học thêm **prompt engineering, Python basic, Zapier, Retool** để tự build prototype.
     - Các CTO mới phải kiêm luôn vai trò "technical product strategist", không chỉ codebase leader.
 
-Tóm lại: Trong kỷ nguyên AI, **"fullstack" nghĩa là "biết từ insight → prototype → test →**
+Tóm lại: Trong kỷ nguyên AI, **"fullstack" nghĩa là "biết từ insight → prototype → test →scale"** gần như một mình
 
-#### scale" gần như một mình
-
-Người nào làm được vậy sẽ cực kỳ mạnh. Người chỉ ngồi làm từng mảng riêng lẻ sẽ bị AI hoặc
-
-đội lean vượt qua.
+Người nào làm được vậy sẽ cực kỳ mạnh. Người chỉ ngồi làm từng mảng riêng lẻ sẽ bị AI hoặc đội lean vượt qua.
 
 # Chương 1: Nghiên cứu MVP toàn diện
 

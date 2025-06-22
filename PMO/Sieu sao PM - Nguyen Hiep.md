@@ -187,7 +187,7 @@ Viết lại một cách thật thấu đáo cái problem statement: Giải quy�
    - Tính khả thi của công nghệ.  
    - Nhân sự và knowhow cần thiết.  
 
-Nếu mà tóm gọn lại tiêu chí thành công của một ý tưởng kinh doanh, thì đón giãn có thể được nói là giải quyết vấn đề có thật, của những người chi trả được, một cách chất lượng và đột phá.
+Nếu mà tóm gọn lại tiêu chí thành công của một ý tưởng kinh doanh, thì đơn giản có thể được nói là giải quyết vấn đề có thật, của những người chi trả được, một cách chất lượng và đột phá.
 
 **Một vài lối đi để có product market fit:**
 

@@ -36,8 +36,8 @@ Scale Up.
 
 #### Khái niệm mới "Fullstack" giờ rộng hơn rất nhiều
 
-- - Trước đây "fullstack" chỉ ám chỉ **cả frontend + backend** (cho dev).
-    - Giờ "fullstack" nghĩa là **một người tech/product cần bao quát**:
+Trước đây "fullstack" chỉ ám chỉ **cả frontend + backend** (cho dev).
+Giờ "fullstack" nghĩa là **một người tech/product cần bao quát**:
 
 #### Tư duy sản phẩm + Khả năng prototype nhanh + Thấu hiểu data/AI + Biết vận hành growth/market
 
@@ -58,11 +58,10 @@ Không chỉ biết "build", mà còn **biết chọn đúng thứ để build**
 
 **Product Sense**Viết problem statement, chọn đúng usecase, đo pain score
 
-Rapid prototyping (no-code, low-code, prompt engineering, basic
+Rapid prototyping (no-code, low-code, prompt engineering, basic API handling)
 
 #### Technical Build
 
-API handling)
 
 **Data/AI Fluency**Xử lý dữ liệu cơ bản, phân tích với AI, ﬁne-tune small model **Growth Mindset**Biết thiết kế test funnel (A/B test, landing page, smoke test) **Communication/**
 

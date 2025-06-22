@@ -65,11 +65,7 @@ Rapid prototyping (no-code, low-code, prompt engineering, basic API handling)
 
 **Data/AI Fluency** Xử lý dữ liệu cơ bản, phân tích với AI, ﬁne-tune small model 
 **Growth Mindset** Biết thiết kế test funnel (A/B test, landing page, smoke test) 
-**Communication/**
-
-#### Storytelling
-
-Pitch ý tưởng rõ ràng, show kết quả early
+**Communication/ Storytelling** Pitch ý tưởng rõ ràng, show kết quả early
 
 \=> **Ngắn gọn:** Người làm tech/product giờ phải **build-thử-scale** gần như end-to-end, ít nhất là ở mức "version 0.1".
 

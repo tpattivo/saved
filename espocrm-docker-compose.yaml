@@ -25,8 +25,8 @@ services:
       ESPOCRM_DATABASE_HOST: espocrm-db
       ESPOCRM_DATABASE_USER: espocrm
       ESPOCRM_DATABASE_PASSWORD: database_password
-      ESPOCRM_ADMIN_USERNAME: sieuadmin
-      ESPOCRM_ADMIN_PASSWORD: sieupassword
+      ESPOCRM_ADMIN_USERNAME: sieuadmin # Use custom admin usernam
+      ESPOCRM_ADMIN_PASSWORD: sieupassword # Remember to create secured password
       ESPOCRM_SITE_URL: "https://espocrm.thaipham.top" # Updated to use correct domain without port
     volumes:
       - espocrm:/var/www/html
